@@ -1,10 +1,10 @@
 html {
-  background-color: #8685AB;
+  background-image: url("https://diamond-heberg.fr/game/fond.svg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  
+  background-color: transparent;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D.fRwFrz.DashboardContainer___StyledServerRow-sc-1topkxf-2 {
@@ -154,12 +154,12 @@ div.TitledGreyBox___StyledDiv-sc-gvsoy-0.oLbNP.StartupContainer___StyledTitledGr
 }
 
 div.App___StyledDiv-sc-2l91w7-0.fnfeQw {
-  background-color: #8685AB;
+  background-image: url("https://diamond-heberg.fr/game/fond.svg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  
+  background-color: transparent;
 }
 
 a.GreyRowBox-sc-1xo9c6v-0.ServerRow__StatusIndicatorBox-sc-1ibsw91-2.dyLna-D {
