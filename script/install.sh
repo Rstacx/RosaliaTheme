@@ -9,7 +9,7 @@ clear
 
 installTheme(){
     cd /var/www/
-    tar -cvf MinecraftPurpleThemebackup.tar.gz pterodactyl
+    tar -cvf RosaliaThemeBackup.tar.gz pterodactyl
     echo "Installing theme..."
     cd /var/www/pterodactyl
     rm -r RosaliaTheme
